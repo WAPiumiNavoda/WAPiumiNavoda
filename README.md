@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **navodapiumi691@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ery-hrEFdcaaQhzdXf1WUkqt3otFBHXO/view?usp=sharing](https://drive.google.com/file/d/1Ery-hrEFdcaaQhzdXf1WUkqt3otFBHXO/view?usp=sharing)
-
 - ⚡ Fun fact **I think I am funney**
 
 <h3 align="left">Connect with me:</h3>
