@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wapiuminavoda&" alt="wapiuminavoda" /></p>
 
-[![@wapiuminavoda's Holopin board](https://holopin.me/wapiuminavoda)](https://holopin.io/@wapiuminavoda)
+
